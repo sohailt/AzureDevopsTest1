@@ -1,0 +1,11 @@
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\bin\Debug\netcoreapp2.0\DevOpsTestVSProject1.deps.json
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\bin\Debug\netcoreapp2.0\DevOpsTestVSProject1.runtimeconfig.json
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\bin\Debug\netcoreapp2.0\DevOpsTestVSProject1.runtimeconfig.dev.json
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\bin\Debug\netcoreapp2.0\DevOpsTestVSProject1.dll
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\bin\Debug\netcoreapp2.0\DevOpsTestVSProject1.pdb
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.csprojAssemblyReference.cache
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.csproj.CoreCompileInputs.cache
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.AssemblyInfoInputs.cache
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.AssemblyInfo.cs
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.dll
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.pdb
