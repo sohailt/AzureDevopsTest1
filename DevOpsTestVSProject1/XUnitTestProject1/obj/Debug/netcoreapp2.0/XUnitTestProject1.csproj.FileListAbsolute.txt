@@ -1,0 +1,14 @@
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.deps.json
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.runtimeconfig.json
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.runtimeconfig.dev.json
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.dll
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.pdb
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.AssemblyInfo.cs
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.dll
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.pdb
