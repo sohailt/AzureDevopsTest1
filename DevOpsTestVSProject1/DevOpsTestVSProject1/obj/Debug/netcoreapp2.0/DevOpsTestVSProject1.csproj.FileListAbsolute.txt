@@ -8,3 +8,7 @@ C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\D
 C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.AssemblyInfo.cs
 C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.dll
 C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.pdb
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\obj\Debug\netcoreapp2.0\DevOpsTestVSProject1.csprojAssemblyReference.cache
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Source\repos\AzureDevopsTest1\DevOpsTestVSProject1\DevOpsTestVSProject1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
